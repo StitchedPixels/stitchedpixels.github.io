@@ -69,7 +69,7 @@ Season,Song,Artist,Round
 1,I Remember,A Day To Remember,For the Long Haul
 1,I Want You (She's So Heavy),The Beatles,For the Long Haul
 1,Instrumental,Box Car Racer,Who Needs Vocals?
-1,Interlude,+44,Who Needs Vocals?
+1,Interlude,44,Who Needs Vocals?
 1,Iridium,The Sidh,Who Needs Vocals?
 1,It's All Coming Back to Me Now,Celine Dion,For the Long Haul
 1,Jaked on Green Beers,Alkaline Trio,Turn It Up To 11
@@ -88,7 +88,7 @@ Season,Song,Artist,Round
 1,Let's Go,Travis Barker,Turn It Up To 11
 1,Life And Death,Michael Giacchino,Who Needs Vocals?
 1,Light in the Distance,Ogeaz,Hipster Picks
-1,Lycanthrope,+44,Top of the Order
+1,Lycanthrope,44,Top of the Order
 1,MakeDamnSure,Stand Atlantic,Don't Judge a Song by It's Cover
 1,Miasma,Ghost,Who Needs Vocals?
 1,Middle Aged Masterpiece,Radical Radical,Hipster Picks
@@ -232,7 +232,7 @@ Season,Song,Artist,Round
 2,Kingslayer (feat. BABYMETAL),Bring Me The Horizon,Feat Fetish
 2,La Ciudad,El Shirota,Foreign Delights
 2,Letterbomb,Green Day,IT'S A-LIVE!!!
-2,Lillian,+44,What's In A Name?
+2,Lillian,44,What's In A Name?
 2,Lola,Lilith Czar,What's In A Name?
 2,Lola + Joseph,July Talk,What's In A Name?
 2,Lotta True Crime,Penelope Scott,Killer Queens
@@ -440,12 +440,12 @@ Season,Song,Artist,Round
 4,As It Was,Harry Styles,Best of 2022
 4,Baby You're a Haunted House,Gerard Way,Scary Pumpkin Spice Season
 4,"Baby, It's Cold Outside","Lydia Liza, Josiah Lemanski","Happy Holidays, You Bastard"
-4,Backstabber,[spunge],Thnks Fr Th Gvngs						
+4,Backstabber,[spunge],Thnks Fr Th Gvngs
 4,Bad Day,Charlotte Sands,Best of 2022
-4,bad guy,Billie Eilish,Thnks Fr Th Gvngs						
+4,bad guy,Billie Eilish,Thnks Fr Th Gvngs
 4,Beloved,Mumford & Sons,Make Me Ugly Cry
 4,Black,Pearl Jam,Make Me Ugly Cry
-4,Blood In My Eyes,Sum 41,Thnks Fr Th Gvngs						
+4,Blood In My Eyes,Sum 41,Thnks Fr Th Gvngs
 4,Blow Me Away,Breaking Benjamin,Game On
 4,Burn The Witch,Queens of the Stone Age,Scary Pumpkin Spice Season
 4,Burning Heart,Dashboard Confessional,Best of 2022
@@ -485,7 +485,7 @@ Season,Song,Artist,Round
 4,Happier,Cast of Zoey's Extraordinary Playlist,Let's Duet
 4,Hark! The Herald Angels Sing,Bad Religion,"Happy Holidays, You Bastard"
 4,Hate Me,Blue October,Make Me Ugly Cry
-4,Hear You Me,Jimmy Eat World,Thnks Fr Th Gvngs						
+4,Hear You Me,Jimmy Eat World,Thnks Fr Th Gvngs
 4,Helena,Misfits,Scary Pumpkin Spice Season
 4,Here to Forever,Death Cab for Cutie,Best of 2022
 4,Home,Edward Sharpe & The Magnetic Zeros,Let's Duet
@@ -498,9 +498,9 @@ Season,Song,Artist,Round
 4,It's Quiet Uptown,"Renee Elise Goldsberry, Lin-Manuel Miranda, Phillipa Soo, Original Broadways Cast of Hamilton",Make Me Ugly Cry
 4,Jet Lag,Simple Plan,Let's Duet
 4,Jiggle Jiggle,"Duke & Jones, Louis Theroux",Best of 2022
-4,Kill the Turkey,Bob's Burgers,Thnks Fr Th Gvngs						
+4,Kill the Turkey,Bob's Burgers,Thnks Fr Th Gvngs
 4,Killer Klowns,The Dickies,Scary Pumpkin Spice Season
-4,L.G. FUAD,Motion City Soundtrack,Thnks Fr Th Gvngs						
+4,L.G. FUAD,Motion City Soundtrack,Thnks Fr Th Gvngs
 4,Last Christmas,Brojob,"Happy Holidays, You Bastard"
 4,Leather and Lace,Stevie Nicks,Let's Duet
 4,Legend of Zelda: Suite,"Koji Kondo, Andrew Skeet, London Philharmonic Orchestra",Game On
@@ -515,17 +515,17 @@ Season,Song,Artist,Round
 4,Matilda,PUP,Best of 2022
 4,MEGALOVANIA,Toby Fox,Game On
 4,"Merry Christmas, Kiss My Ass",All Time Low,"Happy Holidays, You Bastard"
-4,Midwestern States,The Menzingers,Thnks Fr Th Gvngs						
+4,Midwestern States,The Menzingers,Thnks Fr Th Gvngs
 4,Monster Mash,"Bobby ""Boris"" Pickett, The Crypt-Kickers",Scary Pumpkin Spice Season
 4,Monster Mash,"Bootsy Collins, Buckethead",Scary Pumpkin Spice Season
 4,Monsters,Matchbook Romance,Scary Pumpkin Spice Season
-4,Mr. Roboto,Styx,Thnks Fr Th Gvngs						
+4,Mr. Roboto,Styx,Thnks Fr Th Gvngs
 4,My Hero,Foo Fighters,Make Me Ugly Cry
 4,Nightmare,Avenged Sevenfold,Scary Pumpkin Spice Season
 4,No Control,WILLOW,Make Me Ugly Cry
 4,"No Lies, Just Love","Son, Ambulance, Bright Eyes",Make Me Ugly Cry
 4,Nothing Better,The Postal Service,Let's Duet
-4,Numb / Encore,"JAY-Z, Linkin Park",Thnks Fr Th Gvngs						
+4,Numb / Encore,"JAY-Z, Linkin Park",Thnks Fr Th Gvngs
 4,One More Light,Linkin Park,Make Me Ugly Cry
 4,Over and Out,Twelve Foot Ninja,Let's Duet
 4,Over My Shoulder,The Early November,Best of 2022
@@ -538,7 +538,7 @@ Season,Song,Artist,Round
 4,Rats,Ghost,Scary Pumpkin Spice Season
 4,Remembering Sunday,All Time Low,Let's Duet
 4,Rip & Tear,Mick Gordon,Game On
-4,Roots,In This Moment,Thnks Fr Th Gvngs						
+4,Roots,In This Moment,Thnks Fr Th Gvngs
 4,Rudolph The Red Nosed Reindeer,DMX,"Happy Holidays, You Bastard"
 4,Run Rudolph Run,Foo Fighters,"Happy Holidays, You Bastard"
 4,Runnin' (Dying To Live),"2Pac, The Notorious B.I.G.",Make Me Ugly Cry
@@ -551,9 +551,9 @@ Season,Song,Artist,Round
 4,Snake Eater,Cynthia Harrell,Game On
 4,"Spooky, Scary Skeletons - The Undead Tombstone Remix Extended",Andrew Gold,Scary Pumpkin Spice Season
 4,Still Alive (feat. Sara Quin),"Jonathan Coulton, Sara Quin",Game On
-4,Stop,Spice Girls,Thnks Fr Th Gvngs						
+4,Stop,Spice Girls,Thnks Fr Th Gvngs
 4,Strangest Faces,Bayside,Best of 2022
-4,Stubb - A Dub,Mr. Bungle,Thnks Fr Th Gvngs						
+4,Stubb - A Dub,Mr. Bungle,Thnks Fr Th Gvngs
 4,Suburban Home / I Like Food,Taking Back Sunday,Game On
 4,Super Mario Bros. Theme,Video Game Players,Game On
 4,Superman,Goldfinger,Game On
@@ -563,22 +563,22 @@ Season,Song,Artist,Round
 4,Telephone,Lady Gaga,Let's Duet
 4,Terrible Things,Mayaday Parade,Make Me Ugly Cry
 4,Thank God It's Friday,Ice Nine Kills,Scary Pumpkin Spice Season
-4,Thank U,Alanis Morissette,Thnks Fr Th Gvngs						
-4,"thank u, next",Ariana Grande,Thnks Fr Th Gvngs						
-4,THANK YOU,The Word Alive,Thnks Fr Th Gvngs						
-4,Thank You,Descendents,Thnks Fr Th Gvngs						
-4,Thank You,Simple Plan,Thnks Fr Th Gvngs						
-4,Thank You,Dido,Thnks Fr Th Gvngs						
-4,Thank You,Led Zepplin,Thnks Fr Th Gvngs						
-4,Thank You,Sevendust,Thnks Fr Th Gvngs						
-4,Thank You and Good Night,Weezer,Thnks Fr Th Gvngs						
-4,Thank You for Being a Friend,Andrew Gold,Thnks Fr Th Gvngs						
-4,Thank You Mom,Good Charlotte,Thnks Fr Th Gvngs						
-4,Thanks to You,All Time Low,Thnks Fr Th Gvngs						
+4,Thank U,Alanis Morissette,Thnks Fr Th Gvngs
+4,"thank u, next",Ariana Grande,Thnks Fr Th Gvngs
+4,THANK YOU,The Word Alive,Thnks Fr Th Gvngs
+4,Thank You,Descendents,Thnks Fr Th Gvngs
+4,Thank You,Simple Plan,Thnks Fr Th Gvngs
+4,Thank You,Dido,Thnks Fr Th Gvngs
+4,Thank You,Led Zepplin,Thnks Fr Th Gvngs
+4,Thank You,Sevendust,Thnks Fr Th Gvngs
+4,Thank You and Good Night,Weezer,Thnks Fr Th Gvngs
+4,Thank You for Being a Friend,Andrew Gold,Thnks Fr Th Gvngs
+4,Thank You Mom,Good Charlotte,Thnks Fr Th Gvngs
+4,Thanks to You,All Time Low,Thnks Fr Th Gvngs
 4,The Boy Is Mine,Brandy,Let's Duet
 4,The Chipmunk Song (Christmas Don't Be Late),Alvin & The Chipmunks,"Happy Holidays, You Bastard"
 4,THE DEATH OF PEACE OF MIND,Bad Omens,Best of 2022
-4,The Golden Girls - The Main Title Theme,TV Themes,Thnks Fr Th Gvngs						
+4,The Golden Girls - The Main Title Theme,TV Themes,Thnks Fr Th Gvngs
 4,The Legend Of Zelda - Main Theme,Geek Music,Game On
 4,The Man Comes Around,Johnny Cash,Scary Pumpkin Spice Season
 4,The Night Santa Went Crazy,"""Weird Al"" Yankovic","Happy Holidays, You Bastard"
@@ -587,9 +587,9 @@ Season,Song,Artist,Round
 4,The Very First Christmas,Spongebob Squarepants,"Happy Holidays, You Bastard"
 4,The Village,Wrabel,Make Me Ugly Cry
 4,Theme of Laura,Akira Yamaoka,Game On
-4,These Days,Rudimental,Thnks Fr Th Gvngs						
+4,These Days,Rudimental,Thnks Fr Th Gvngs
 4,This Is Halloween,The Citizens of Halloween,Scary Pumpkin Spice Season
-4,Thnks fr the Mmrs,Fall Out Boy,Thnks Fr Th Gvngs						
+4,Thnks fr the Mmrs,Fall Out Boy,Thnks Fr Th Gvngs
 4,Three Cheers For Five Years,Mayday Parade,Let's Duet
 4,Title Theme (From “Rollercoaster Tycoon 2”),Allister Brimble,Game On
 4,Two Is Better Than One,Boys Like Girls,Let's Duet
@@ -611,15 +611,15 @@ Season,Song,Artist,Round
 5,A Million Dreams,P!nk,First Dance
 5,ABC,The Jackson 5,All In The Family
 5,Ace of Spades,Motorhead,Gold Metal
-5,Alcohol,Barenaked Ladies,Break Me Off A Piece Of That Fancy Feast			
+5,Alcohol,Barenaked Ladies,Break Me Off A Piece Of That Fancy Feast
 5,All I Ask Of You,"Andrew Lloyd Webber, Patrick Wilson, Emmy Rossum",First Dance
-5,Amerika,Rammstein,Break Me Off A Piece Of That Fancy Feast			
+5,Amerika,Rammstein,Break Me Off A Piece Of That Fancy Feast
 5,Angel,Sarah McLachlan,Last Dance
 5,Ashes of Eden,Breaking Benjamin,Last Dance
 5,Astronomia,Vicetone,Last Dance
-5,Babysitters on Acid,Lunachicks,Break Me Off A Piece Of That Fancy Feast			
-5,Banana Pancakes,Jack Johnson,Break Me Off A Piece Of That Fancy Feast			
-5,Be Our Guest,"Angela Lansbury, Jerry Orbach, Chorus - Beauty And the Beast",Break Me Off A Piece Of That Fancy Feast			
+5,Babysitters on Acid,Lunachicks,Break Me Off A Piece Of That Fancy Feast
+5,Banana Pancakes,Jack Johnson,Break Me Off A Piece Of That Fancy Feast
+5,Be Our Guest,"Angela Lansbury, Jerry Orbach, Chorus - Beauty And the Beast",Break Me Off A Piece Of That Fancy Feast
 5,Beep Beep I'm a Sheep,"LilDeuceDeuce, TomSka, Black Gryph0n",Pet Rock
 5,"Better by You, Better Than Me",Judas Priest,Gold Metal
 5,Beyond a Shadow of a Doubt,Masked Intruder,EP Phone Home
@@ -629,9 +629,9 @@ Season,Song,Artist,Round
 5,Bleeding Out,In Flames,Gold Metal
 5,Bodies,Drowning Pool,Gold Metal
 5,Breach,ERRA,Gold Metal
-5,Bring Back Breakfast,A Great Big Pile of Leaves,Break Me Off A Piece Of That Fancy Feast			
+5,Bring Back Breakfast,A Great Big Pile of Leaves,Break Me Off A Piece Of That Fancy Feast
 5,Bullet With Butterfly Wings,The Smashing Pumpkins,Pet Rock
-5,Cake By The Ocean,DNCE,Break Me Off A Piece Of That Fancy Feast			
+5,Cake By The Ocean,DNCE,Break Me Off A Piece Of That Fancy Feast
 5,Can You Feel the Love Tonight,"Joseph Williams, Sally Dworsky, Nathan Lane, Ernie Sabella, Kristie Edwards",First Dance
 5,Can't Hug Every Cat,"The Gregory Brothers, Cara Hartmann",Pet Rock
 5,Carry On,Avenged Sevenfold,EP Phone Home
@@ -644,8 +644,8 @@ Season,Song,Artist,Round
 5,Dog Days Are Over,Florence + The Machine,Pet Rock
 5,Down with the Sickness,Disturbed,Gold Metal
 5,Du hast,Rammstein,Gold Metal
-5,Eat It,"""Weird Al"" Yankovic",Break Me Off A Piece Of That Fancy Feast			
-5,El Scorcho,Weezer,Break Me Off A Piece Of That Fancy Feast			
+5,Eat It,"""Weird Al"" Yankovic",Break Me Off A Piece Of That Fancy Feast
+5,El Scorcho,Weezer,Break Me Off A Piece Of That Fancy Feast
 5,Emergency,Paramore,All In The Family
 5,Eternal Blue,Spiritbox,Gold Metal
 5,Ev'rybody Wants to Be a Cat,"Scatman Crothers, Phil Harris, Thuri Ravesncroft, Liz English",Pet Rock
@@ -672,8 +672,8 @@ Season,Song,Artist,Round
 5,Highway to Hell,AC/DC,Last Dance
 5,Highway Tune,Greta Van Fleet,All In The Family
 5,Hiphopopotamus vs. Rhymenoceros,Flight of the Conchords,Pet Rock
-5,His Cheeseburger,VeggieTales,Break Me Off A Piece Of That Fancy Feast			
-5,Hitchin' a Ride,Green Day,Break Me Off A Piece Of That Fancy Feast			
+5,His Cheeseburger,VeggieTales,Break Me Off A Piece Of That Fancy Feast
+5,Hitchin' a Ride,Green Day,Break Me Off A Piece Of That Fancy Feast
 5,Hollow Point Sniper Hyperbole,USS (Ubiquitous Synergy Seeker),EP Phone Home
 5,I Believe in a Thing Called Love,The Darkness,All In The Family
 5,I Don't Want to Miss a Thing,Aerosmith,First Dance
@@ -684,20 +684,20 @@ Season,Song,Artist,Round
 5,In Violet,Grayscale,Last Dance
 5,Iris,The Goo Goo Dolls,First Dance
 5,Kickstart My Heart,Motley Crue,Gold Metal
-5,Killer Tofu,Doug & The Beets,Break Me Off A Piece Of That Fancy Feast			
+5,Killer Tofu,Doug & The Beets,Break Me Off A Piece Of That Fancy Feast
 5,Kirby,Aesop Rock,Pet Rock
 5,Kiss,Prince,First Dance
 5,Kiss Me,Sixpence None The Richer,First Dance
 5,Kokomo,The Beach Boys,All In The Family
 5,Kool,28 Days,EP Phone Home
-5,Let's Eat,Macklemore & Ryan Lewis,Break Me Off A Piece Of That Fancy Feast			
+5,Let's Eat,Macklemore & Ryan Lewis,Break Me Off A Piece Of That Fancy Feast
 5,Let's Stay Together,Al Green,First Dance
 5,Letting Go,Mayday Parade,Last Dance
 5,Lifeblood,Brand of Sacrifice,Gold Metal
 5,Lifestyles of the Rick & Famous,Good Charlotte,All In The Family
 5,Little Dreamer,Van Halen,All In The Family
 5,Little of Your Love,HAIM,All In The Family
-5,Lollipop (Candyman),Aqua,Break Me Off A Piece Of That Fancy Feast			
+5,Lollipop (Candyman),Aqua,Break Me Off A Piece Of That Fancy Feast
 5,Love Bits (So Do I),Halestorm,All In The Family
 5,Love Survives,Irene Cara,Last Dance
 5,Lovesong,The Cure,First Dance
@@ -710,7 +710,7 @@ Season,Song,Artist,Round
 5,Mistaken for Strangers,The National,All In The Family
 5,Monkey Wrench,Foo Fighters,Pet Rock
 5,Movin' Out (Anthony's Song),Billy Joel,EP Phone Home
-5,Music For a Sushi Restaurant,Harry Styles,Break Me Off A Piece Of That Fancy Feast			
+5,Music For a Sushi Restaurant,Harry Styles,Break Me Off A Piece Of That Fancy Feast
 5,My Own Summer (Shove It),Deftones,Gold Metal
 5,My Own Worst Enemy,Lit,All In The Family
 5,Nights On Broadway,Bee Gees,All In The Family
@@ -724,15 +724,15 @@ Season,Song,Artist,Round
 5,Our House,Farewell Continental,First Dance
 5,Over the Rainbow,Israel Kamakawiwo'ole,Last Dance
 5,Papercut,Linkin Park,Gold Metal
-5,Peaches,The Presidents Of The United States Of America,Break Me Off A Piece Of That Fancy Feast			
+5,Peaches,The Presidents Of The United States Of America,Break Me Off A Piece Of That Fancy Feast
 5,Penguins & Polarbears,Millencolin,Pet Rock
 5,Perfect,Ed Sheeran,First Dance
 5,Pet Cheetah,Twenty One Pilots,Pet Rock
 5,Picture Book,The Kinks,All In The Family
 5,Pittsburgh,The Amity Affliction,Gold Metal
-5,Pork Soda,Primus,Break Me Off A Piece Of That Fancy Feast			
-5,Pour Some Sugar On Me,Def Leppard,Break Me Off A Piece Of That Fancy Feast			
-5,Pub Feed,The Chats,Break Me Off A Piece Of That Fancy Feast			
+5,Pork Soda,Primus,Break Me Off A Piece Of That Fancy Feast
+5,Pour Some Sugar On Me,Def Leppard,Break Me Off A Piece Of That Fancy Feast
+5,Pub Feed,The Chats,Break Me Off A Piece Of That Fancy Feast
 5,Pyro,Kings of Leon,All In The Family
 5,Right Here In My Arms,HIM,Gold Metal
 5,Selfless,The Strokes,First Dance
@@ -741,25 +741,25 @@ Season,Song,Artist,Round
 5,Shot At The Night,The Killers,First Dance
 5,Shot Through The Heart,Bon Jovi,Gold Metal
 5,Sleep In The Heat,PUP,Pet Rock
-5,Something Rotten! / Make an Omelette,"Brian D'Arcy James, Brad Oscar, 'Something Rotten' Ensemble",Break Me Off A Piece Of That Fancy Feast			
+5,Something Rotten! / Make an Omelette,"Brian D'Arcy James, Brad Oscar, 'Something Rotten' Ensemble",Break Me Off A Piece Of That Fancy Feast
 5,Somewhere Only We Know,Lily Allen,Last Dance
 5,Sonny,New Found Glory,Last Dance
 5,Soul Trashing Black Sorcery,Skeletonwitch,Gold Metal
 5,Spiders,Slipknot,Pet Rock
 5,Spiderwebs,No Doubt,All In The Family
 5,Stingin' Belle,Biffy Clyro,All In The Family
-5,Strawberry Bubblegum,Justin Timberlake,Break Me Off A Piece Of That Fancy Feast			
+5,Strawberry Bubblegum,Justin Timberlake,Break Me Off A Piece Of That Fancy Feast
 5,Such Great Heights,The Postal Service,EP Phone Home
-5,Sugar,Maroon 5,Break Me Off A Piece Of That Fancy Feast			
+5,Sugar,Maroon 5,Break Me Off A Piece Of That Fancy Feast
 5,Superfast Jellyfish,Gorillaz,Pet Rock
 5,Supersonic,Oasis,All In The Family
 5,Surprise! You're Dead!,Faith No More,Last Dance
 5,Synesthesia,Andrew McMahon in the Wilderness,EP Phone Home
 5,Take My Breath Away,Berlin,First Dance
 5,Teenage Kicks,The Undertones,EP Phone Home
-5,Tequila,"Kap Slap, Sammy Arriaga",Break Me Off A Piece Of That Fancy Feast			
+5,Tequila,"Kap Slap, Sammy Arriaga",Break Me Off A Piece Of That Fancy Feast
 5,The Book Of Love,Peter Gabriel,First Dance
-5,"The Candy Man - From ""Willy Wonka & The Chocolate Factory"" Soundtrack",Aubrey Woods,Break Me Off A Piece Of That Fancy Feast			
+5,"The Candy Man - From ""Willy Wonka & The Chocolate Factory"" Soundtrack",Aubrey Woods,Break Me Off A Piece Of That Fancy Feast
 5,The Chicken,Bo Burnham,Pet Rock
 5,The Cycle,Final Confession,Gold Metal
 5,The Detrimental Ones,The Silenced,Gold Metal
@@ -771,14 +771,14 @@ Season,Song,Artist,Round
 5,The Motivation Proclamation,Good Charlotte,All In The Family
 5,The Truth,Relient K,EP Phone Home
 5,Thinking out Loud,Ed Sheeran,First Dance
-5,"This Is Not a Song, It's a Sandwich",Psychostick,Break Me Off A Piece Of That Fancy Feast			
+5,"This Is Not a Song, It's a Sandwich",Psychostick,Break Me Off A Piece Of That Fancy Feast
 5,This Will Be Our Year,The Zombies,First Dance
 5,Threat of Joy,The Strokes,EP Phone Home
 5,Times Like These,Foo Fighters,Last Dance
 5,Vicinity Of Obscenity,System Of A Down,EP Phone Home
 5,Voldemort,With Confidence,First Dance
 5,Wasting Time,The Mowgli's,EP Phone Home
-5,Watermelon Sugar,Harry Styles,Break Me Off A Piece Of That Fancy Feast			
+5,Watermelon Sugar,Harry Styles,Break Me Off A Piece Of That Fancy Feast
 5,Welcome the the Black Parade,My Chemical Romance,Last Dance
 5,Werewolf,Motionless In White,Pet Rock
 5,White Rabbit,Jefferson Airplane,Pet Rock
@@ -1166,4 +1166,26 @@ Season,Song,Artist,Round
 8,This Is Why,Paramore,Best of 2023
 8,Turn The Page,Metallica,"First Love, First High"
 8,Until I Found You,Stephen Sanchez,"First Love, First High"
+8,Love Song,Haunt,Cupid Tunes
+8,Rain,Sleep Token,Cupid Tunes
+8,The Luckiest,Ben Folds,Cupid Tunes
+8,More Than Words,Extreme,Cupid Tunes
+8,She Loves Me So,Anthony Green,Cupid Tunes
+8,Strangers,The Kinks,Cupid Tunes
+8,Kissing in Cars,Pierce The Veil,Cupid Tunes
+8,I Got Love,Mother Mother,Cupid Tunes
+8,No One's Gonna Love You,Band of Horses,Cupid Tunes
+8,Spectacular Girl,Eels,Cupid Tunes
+8,Yellow,Coldplay,Cupid Tunes
+8,After the Party,The Menzingers,Cupid Tunes
+8,i wanna be your girlfriend,girl in red,Cupid Tunes
+8,I Will Follow You into the Dark,Death Cab for Cutie,Cupid Tunes
+8,Can't Helping Falling in Love,Elvis Presley,Cupid Tunes
+8,I Will Always Love You,Whitney Houston,Cupid Tunes
+8,Just Like Heaven,The Cure,Cupid Tunes
+8,golden hour,JVKE,Cupid Tunes
+8,Dig,Incubus,Cupid Tunes
+8,Kiss Me,Sixpence None The Richer,Cupid Tunes
+8,Lovefool,The Cardigans,Cupid Tunes
+8,Sh-Boom,The Crew Cuts,Cupid Tunes
 8,,,
