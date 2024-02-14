@@ -1,0 +1,16 @@
+body {
+  padding: 1em;
+}
+#searchForm {
+  margin-top: 1em;
+}
+table {
+  width: 100%;
+}
+table th,
+table td {
+  padding: 0.25em;
+}
+table th {
+  min-width: 33%;
+}

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Music League Song List - stitchedpixels.ca</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="assets/css/base.css" rel="stylesheet">
+  <link href="assets/css/custom.css" rel="stylesheet">
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+  <script src="assets/js/jquery.csv.min.js"></script>
+  <script src="assets/js/script.js"></script>
+  <script>
+    $(document).ready(function(){
+      loadData();
+    });
+  </script>
+</head>
+<body>
+  <h1>Music League Song List</h1>
+  <div id="searchForm">
+    <input type="text" id="songSearch" onkeyup="searchTables()" placeholder="Search..." />
+    <input type="button" value="clear" onclick="clearSearch()" />
+  </div>
+  <div id="tableContainer"></div>
+</body>
+</html>
