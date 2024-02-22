@@ -1,8 +1,9 @@
 function loadData() {
-  var data, i, seasonFilter, seasonCount;
+  var data, i, seasonFilter, seasonCount, dtparam;
+  dtparam = Date.now();
   $.ajax({
     type: "GET",
-    url: "assets/lists/ListBySeason.csv",
+    url: "assets/lists/ListBySeason.csv?id="+dtparam,
     dataType: "text",
     success: function(response) {
       data = $.csv.toObjects(response);
