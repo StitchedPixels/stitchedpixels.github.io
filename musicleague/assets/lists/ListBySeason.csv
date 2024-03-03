@@ -69,7 +69,7 @@ Season,Song,Artist,Round
 1,I Remember,A Day To Remember,For the Long Haul
 1,I Want You (She's So Heavy),The Beatles,For the Long Haul
 1,Instrumental,Box Car Racer,Who Needs Vocals?
-1,Interlude,44,Who Needs Vocals?
+1,Interlude,+44,Who Needs Vocals?
 1,Iridium,The Sidh,Who Needs Vocals?
 1,It's All Coming Back to Me Now,Celine Dion,For the Long Haul
 1,Jaked on Green Beers,Alkaline Trio,Turn It Up To 11
@@ -88,7 +88,7 @@ Season,Song,Artist,Round
 1,Let's Go,Travis Barker,Turn It Up To 11
 1,Life And Death,Michael Giacchino,Who Needs Vocals?
 1,Light in the Distance,Ogeaz,Hipster Picks
-1,Lycanthrope,44,Top of the Order
+1,Lycanthrope,+44,Top of the Order
 1,MakeDamnSure,Stand Atlantic,Don't Judge a Song by It's Cover
 1,Miasma,Ghost,Who Needs Vocals?
 1,Middle Aged Masterpiece,Radical Radical,Hipster Picks
@@ -232,7 +232,7 @@ Season,Song,Artist,Round
 2,Kingslayer (feat. BABYMETAL),Bring Me The Horizon,Feat Fetish
 2,La Ciudad,El Shirota,Foreign Delights
 2,Letterbomb,Green Day,IT'S A-LIVE!!!
-2,Lillian,44,What's In A Name?
+2,Lillian,+44,What's In A Name?
 2,Lola,Lilith Czar,What's In A Name?
 2,Lola + Joseph,July Talk,What's In A Name?
 2,Lotta True Crime,Penelope Scott,Killer Queens
@@ -1126,30 +1126,40 @@ Season,Song,Artist,Round
 8,57,Biffy Clyro,Numericals
 8,1979,The Smashing Pumpkins,Numericals
 8,2022,L.S. Dunes,Numericals
+8,’39,Queen,Spaced Out
 8,&lt;/c0de&gt;,Motionless In White,Numericals
 8,"1 step forward, 3 steps back",Olivia Rodrigo,Numericals
 8,12:51,The Strokes,Numericals
 8,21 Guns,Green Day,"First Love, First High"
 8,25 or 6 to 4,Chicago,Numericals
 8,25 to Life,Masked Intruder,Numericals
+8,5 Light Years,Mae,Spaced Out
 8,9 to 5,Dolly Parton,Numericals
+8,Across The Universe – Naked Version,The Beatles,Spaced Out
 8,After the Party,The Menzingers,Cupid Tunes
 8,All Of The Girls You Loved Before,Taylor Swift,Best of 2023
 8,All That She Wants,Ace of Base,"First Love, First High"
+8,Antigravity,STARSET,Spaced Out
+8,Astronaut,Simple Plan,Spaced Out
+8,Black Hole Sun,Soundgarden,Spaced Out
 8,Blue Monday,Orgy,"First Love, First High"
+8,Bowie,Flight of the Conchords,Spaced Out
 8,Break Me Shake Me,Savage Garden,"First Love, First High"
 8,Breakfast,Newsboys,"First Love, First High"
 8,Bulletproof Love,Pierce The Veil,"First Love, First High"
 8,Can You Hear The Music,Ludwig Goransson,Best of 2023
 8,Can't Helping Falling in Love,Elvis Presley,Cupid Tunes
 8,Come Together,The Beatles,"First Love, First High"
+8,Cosmic Girl,Jamiroquai,Spaced Out
 8,Counting 5-4-3-2-1,Thursday,Numericals
 8,Creep,TLC,"First Love, First High"
 8,Crush,LAX 2194,Best of 2023
 8,Dig,Incubus,Cupid Tunes
+8,E.T.,Katy Perry,Spaced Out
 8,Eleanor Rigby,The Beatles,"First Love, First High"
 8,Everlong,Foo Fighters,"First Love, First High"
 8,Family of Six,Petey,Numericals
+8,Fly Me To The Moon,"Frank Sinatra, Count Basie",Spaced Out
 8,Forty Six & 2,TOOL,Numericals
 8,golden hour,JVKE,Cupid Tunes
 8,HONEY (ARE U COMING?),Maneskin,Best of 2023
@@ -1162,6 +1172,7 @@ Season,Song,Artist,Round
 8,I'll Wait,Petey,Best of 2023
 8,I'm Just Ken,Ryan Gosling,Best of 2023
 8,In the End,Linkin Park,"First Love, First High"
+8,Intergalactic,Beastie Boys,Spaced Out
 8,Just Like Heaven,The Cure,Cupid Tunes
 8,King Of Pain,The Police,"First Love, First High"
 8,Kiss Me,Sixpence None The Richer,Cupid Tunes
@@ -1182,7 +1193,10 @@ Season,Song,Artist,Round
 8,Outlook,The Front Bottoms,Best of 2023
 8,Rain,Sleep Token,Cupid Tunes
 8,Rescued,Foo Fighters,Best of 2023
+8,Rocket Man,"William Shatner, Steve Hillage",Spaced Out
+8,Run Away to Mars,TALK,Spaced Out
 8,Samba Yantra,Chick Corea,"First Love, First High"
+8,Satellite,Harry Styles,Spaced Out
 8,Say You'll Be There,Spice Girls,"First Love, First High"
 8,Seeker (Stretch The Night),Ghost Atlas,Best of 2023
 8,Seven Nation Army,The White Stripes,Numericals
@@ -1193,13 +1207,20 @@ Season,Song,Artist,Round
 8,So Much (For) Stardust,Fall Out Boy,Best of 2023
 8,Sold!,Empire State Bastard,Best of 2023
 8,Song 2,Blur,Numericals
+8,Space Jam,Quad City DJ’s,Spaced Out
+8,Space Oddity,David Bowie,Spaced Out
+8,Spaceman,The Killers,Spaced Out
 8,Spectacular Girl,Eels,Cupid Tunes
+8,Star Wars (Main Theme),"John Williams, London Symphony Orchestra",Spaced Out
 8,Stay,"Ghost, Patrick Wilson",Best of 2023
+8,Stellar,Incubus,Spaced Out
 8,Strangers,The Kinks,Cupid Tunes
 8,Summer ‘79,The Ataris,Numericals
 8,Summer Of ‘69,Bryan Adams,Numericals
+8,Supermassive Black Hole,Muse,Spaced Out
 8,The 1975,The 1975,Numericals
 8,The Anthem,Good Charlotte,"First Love, First High"
+8,The Final Countdown,Europe,Spaced Out
 8,The Freedom to Fuck Off,Petey,Best of 2023
 8,The Kids Aren't Alright,The Offspring,"First Love, First High"
 8,The Luckiest,Ben Folds,Cupid Tunes
@@ -1209,5 +1230,6 @@ Season,Song,Artist,Round
 8,Three Little Birds,Bob Marley & The Wailers,Numericals
 8,Turn The Page,Metallica,"First Love, First High"
 8,Until I Found You,Stephen Sanchez,"First Love, First High"
+8,Venus As A Boy,Björk,Spaced Out
 8,Yellow,Coldplay,Cupid Tunes
 8,,,
